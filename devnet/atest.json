@@ -1,0 +1,13 @@
+{
+    "collection": {
+        "name": "atest",
+        "description": "A simple test collection with open_collections_validator standard"
+    },
+    "creators": [
+        "4wejSnr97csngztZ5SU7A6iZRXJD7B3Y1R1koCQ5NjmD"
+    ],
+    "mint": [
+        "oBLy8QnKZWLaLrUJUG1wZbNCUUuh2ZuqD7u2CZ5Lfh4",
+        "CHFZUcEDWgeTG6vv6TuKNEQU4sHidf2a6GMCH2cA5BGs"
+    ]
+}
