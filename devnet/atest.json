@@ -1,7 +1,7 @@
 {
     "version": "v1",
     "name": "atest",
-    "image": null,    
+    "image": "https://un4i65ll6b6epfdkdurdxgrd4mjv2z3nyijzjqyoqjefitmalcqa.arweave.net/o3iPdWvwfEeUah0iO5oj4xNdZ23CE5TDDoJIVE2AWKA",    
     "description": "A simple test collection with open_collections_validator standard",
     "creators": [
         "4wejSnr97csngztZ5SU7A6iZRXJD7B3Y1R1koCQ5NjmD"
