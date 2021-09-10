@@ -1,6 +1,7 @@
 {
     "version": "v1",
     "name": "Test Fixtures",
+    "image": "https://www.arweave.net/MMlXJNp2n7Vwuzjax7hqHoNouVvmOUzHooM9XBKhmSk?ext=jpg",    
     "description": "A simple test collection with test fixtures",
     "creators": [
         "4j4SqfJv4Qf4yJbLxQxLKvT2TV4eqMo5A5AuNxqr1AuL"

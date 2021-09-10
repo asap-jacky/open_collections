@@ -1,6 +1,7 @@
 {
     "version": "v1",
     "name": "btest",
+    "image": null,    
     "description": "A simple test collection with open_collections_validator standard",
     "creators": [
         "4wejSnr97csngztZ5SU7A6iZRXJD7B3Y1R1koCQ5NjmD"
